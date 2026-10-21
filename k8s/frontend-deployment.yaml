@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: ankitghodekar/devsecops-frontend:1.0
+          image: ankitghodekar/devsecops-frontend:v10
           ports:
             - containerPort: 80
